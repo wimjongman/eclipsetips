@@ -7,7 +7,7 @@
 			"baseUrlx": "file:///C:/Users/jongw/git/eclipse.platform.common/tips/org.eclipse.jdt.ui",
 			"baseUrl": "http://www.eclipse.org/downloads/download.php?r=1&file=/e4/tips/org.eclipse.jdt.ui"
 		},
-"tips": [{
+		"tips": [{
 			"date": "2018-01-05",
 			"subject": "The 'Extract class...' refactoring (from Alt+Shift+T) extracts a group of fields into a separate class and replaces all occurrences to fit the new structure.",
 			"aspect-ratio": "2.0",
