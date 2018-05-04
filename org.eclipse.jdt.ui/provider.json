@@ -14,92 +14,92 @@
 			"url": "${baseUrl}/content/949238007051235328/949238007051235328.html"
 		}, {
 			"date": "2018-01-09",
-			"subject": "Use the 'new' template for quick object creation.",
+			"subject": "The 'new' Template",
 			"aspect-ratio": "2.0",
 			"url": "${baseUrl}/content/950773930775793664/950773930775793664.html"
 		}, {
 			"date": "2017-12-15",
-			"subject": "You don't need to know which module contains a class in Java9 Ctrl-1 can identify the module and add it for you.",
+			"subject": "Add Module",
 			"aspect-ratio": "2.4",
 			"url": "${baseUrl}/content/941624342282108929/941624342282108929.html"
 		}, {
 			"date": "2017-12-14",
-			"subject": "Use the ifnull template to quickly create an if null check",
+			"subject": "The ifnull Template",
 			"aspect-ratio": "2.1",
 			"url": "${baseUrl}/content/941264226940850177/941264226940850177.html"
 		}, {
 			"date": "2017-11-06",
-			"subject": "You can directly use a CSV file as a parameter source in JUnit5 parameterized tests for a large number of cases.",
+			"subject": "Use CSV as Parameter Source",
 			"aspect-ratio": "2.2",
 			"url": "${baseUrl}/content/927527210772258816/927527210772258816.html"
 		}, {
 			"date": "2017-11-16",
-			"subject": "Use the Edit -> Block Selection (Alt+Shift+A) while working with Java9",
+			"subject": "Block Selection",
 			"aspect-ratio": "1.7",
 			"url": "${baseUrl}/content/931124796502536192/931124796502536192.html"
 		}, {
 			"date": "2017-10-18",
-			"subject": "In JUnit5 parameterized tests also accept CSV literals (and files) as a source of parameters. Quite handy to feed your tests! #EclipseTips https://t.co/T7Lphj5eyl",
+			"subject": "CSV Literals in Parameterized Tests",
 			"aspect-ratio": "1.9",
 			"url": "${baseUrl}/content/920608130274381825/920608130274381825.html"
 		}, {
 			"date": "2017-09-19",
-			"subject": "You can use methods returning Java streams as a source of parameters in JUnit5 tests. Use @MethodSource as shown below.",
+			"subject": "Streams as Test Parameters",
 			"aspect-ratio": "1.9",
 			"url": "${baseUrl}/content/910089046600425472/910089046600425472.html"
 		}, {
 			"date": "2017-08-30",
-			"subject": "Put your cursor on a class name (or method) and press Shift+F2 to jump to the web version of your library's Javadoc.",
+			"subject": "Jump to Javadoc on Web",
 			"aspect-ratio": "1.7",
 			"url": "${baseUrl}/content/902851499503607808/902851499503607808.html"
 		}, {
 			"date": "2017-07-24",
-			"subject": "Use the 'Quick Access' box (Ctrl+3) to be more productive. Just type what you want and you'll probably find it. ",
+			"subject": "CTRL+3 - The Master Shortcut",
 			"aspect-ratio": "1.6",
 			"url": "${baseUrl}/content/889435990976323584/889435990976323584.html"
 		}, {
 			"date": "2017-07-11",
-			"subject": "Always safer to 'Invert equals' on literal strings in order to avoid the horrible NullPointerException! Ctrl+1 does it for you. ",
+			"subject": "Invert Equals",
 			"aspect-ratio": "1.9",
 			"url": "${baseUrl}/content/884689449917050880/884689449917050880.html"
 		}, {
 			"date": "2017-07-21",
-			"subject": "Private methods in interfaces are  allowed in Java9. Here's an example use case with a shared 'worker' method.",
+			"subject": "Private Methods in Interfaces",
 			"aspect-ratio": "1.2",
 			"url": "${baseUrl}/content/888360858119745536/888360858119745536.html"
 		}, {
 			"date": "2017-06-13",
-			"subject": "Whatever element you have selected, code or item, 'Show in...' (Alt+Shift+W) command pops up useful views for various details.",
+			"subject": "'Show in' for more Details",
 			"aspect-ratio": "1.2",
 			"url": "${baseUrl}/content/874600197195796482/874600197195796482.html"
 		}, {
 			"date": "2017-06-01",
-			"subject": "Press Alt+Up/Dn to move the lines along with the cursor. Indenting is corrected for you.",
+			"subject": "Alt+Up and Alt+Down",
 			"aspect-ratio": "1.3",
 			"url": "${baseUrl}/content/870170548722184192/870170548722184192.html"
 		}, {
 			"date": "2017-05-04",
-			"subject": "If you want to see where and how a variable was declared press Shift while hovering and you'll see it in-place.",
+			"subject": "Inspect Variable Declaration",
 			"aspect-ratio": "1.8",
 			"url": "${baseUrl}/content/860125970556223489/860125970556223489.html"
 		}, {
 			"date": "2017-05-16",
-			"subject": "Edit -> Toggle Block Selection tool (or just hit Shift+Alt+A) is demonstrated below.",
+			"subject": "Toggle Block Selection",
 			"aspect-ratio": "1.5",
 			"url": "${baseUrl}/content/864423629697822720/864423629697822720.html"
 		}, {
 			"date": "2017-04-20",
-			"subject": "The 'enclosing' selection (Alt+Shift+Up/Dn) shortcut selects the enclosing structure, e.g. var->if->method->class",
+			"subject": "Select Enclosing Structure",
 			"aspect-ratio": "2.0",
 			"url": "${baseUrl}/content/855062302655209472/855062302655209472.html"
 		}, {
 			"date": "2017-04-25",
-			"subject": "Press Shift while hovering a method and it will show implementation in-place.",
+			"subject": "Show Implementation In-place",
 			"aspect-ratio": "2.1",
 			"url": "${baseUrl}/content/856867463409041410/856867463409041410.html"
 		}, {
 			"date": "2018-03-22",
-			"subject": "Use Java 10 and the new 'var' statement in Eclipse with its quick assists (Ctrl+1).",
+			"subject": "Java 10 'var'",
 			"aspect-ratio": "4.2",
 			"url": "${baseUrl}/content/976836214857740288/976836214857740288.html"
 		}]
