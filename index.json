@@ -2,7 +2,7 @@
 	"provider": [{
 			"require-bundle": "org.eclipse.jdt.ui",
 			"location": "org.eclipse.jdt.ui/provider.json",
-			"version": "1.2.1"
+			"version": "1.3.0"
 		},
 		{
 			"require-bundle": "org.eclipse.pde.ui",
